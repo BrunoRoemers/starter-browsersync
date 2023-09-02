@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "install": "mkdir -p src",
-    "dev": "yarn browser-sync start --config bs-config.js"
+    "dev": "browser-sync start --config bs-config.js"
   },
   "devDependencies": {
     "browser-sync": "^2.26.12",
